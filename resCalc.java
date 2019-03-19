@@ -91,4 +91,8 @@ public class resCalc
             return false;
         }
     }
+    
+    public static void main(String[] args) {
+        calc();
+    }
 }
